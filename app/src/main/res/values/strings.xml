@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVPTestApp</string>
+    <string name="play_fizz_buzz">play fizz buzz</string>
 </resources>
